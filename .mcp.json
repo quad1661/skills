@@ -1,14 +1,14 @@
 {
   "mcpServers": {
-    "docs": {
+    "d": {
       "command": "npx",
       "args": ["mcp-remote", "https://docs.mcp.cloudflare.com/mcp"]
     },
-    "obs": {
+    "o": {
       "command": "npx",
       "args": ["mcp-remote", "https://observability.mcp.cloudflare.com/mcp"]
     },
-    "builds": {
+    "b": {
       "command": "npx",
       "args": ["mcp-remote", "https://builds.mcp.cloudflare.com/mcp"]
     }
