@@ -4,7 +4,7 @@
       "command": "npx",
       "args": ["mcp-remote", "https://docs.mcp.cloudflare.com/mcp"]
     },
-    "observability": {
+    "obs": {
       "command": "npx",
       "args": ["mcp-remote", "https://observability.mcp.cloudflare.com/mcp"]
     },
